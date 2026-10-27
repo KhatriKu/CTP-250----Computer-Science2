@@ -1,0 +1,11 @@
+ParkName,State,YearEstablished,AreaSqMiles,AnnualVisitorsMillions,HasCamping,Activities
+Yellowstone,Wyoming,1872,3471.7,4.5,true,Hiking;Geysers;Camping
+Yosemite,California,1890,1169.0,3.9,true,Hiking;Climbing;Waterfalls
+Grand Canyon,Arizona,1919,1902.0,4.7,true,Hiking;Rafting;Photography
+Zion,Utah,1919,229.1,4.6,true,Hiking;Canyoneering;Climbing
+Rocky Mountain,Colorado,1915,415.3,4.3,true,Hiking;Wildlife;Camping
+Great Smoky Mountains,Tennessee,1934,816.3,12.9,true,Hiking;Wildlife;Photography
+Acadia,Maine,1919,76.6,4.0,true,Hiking;Biking;Scenic Views
+Everglades,Florida,1934,2368.0,1.1,false,Wildlife;Airboat Tours
+Olympic,Washington,1938,1441.3,2.7,true,Hiking;Rainforest;Beaches
+Death Valley,California,1994,5221.0,1.0,false,Hiking;Desert;Photography
