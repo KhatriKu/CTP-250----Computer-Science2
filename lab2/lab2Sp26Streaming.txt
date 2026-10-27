@@ -1,0 +1,31 @@
+title,type,genre,releaseYear,rating,length
+Stranger Things,Show,Drama,2016,8.7,4
+Inception,Movie,Sci-Fi,2010,8.8,148
+The Office,Show,Comedy,2005,8.9,9
+Interstellar,Movie,Sci-Fi,2014,8.6,169
+Breaking Bad,Show,Crime,2008,9.5,5
+The Matrix,Movie,Sci-Fi,1999,8.7,136
+Parks and Recreation,Show,Comedy,2009,8.6,7
+The Godfather,Movie,Crime,1972,9.2,175
+Friends,Show,Comedy,1994,8.9,10
+The Dark Knight,Movie,Action,2008,9.0,152
+The Mandalorian,Show,Sci-Fi,2019,8.8,3
+Forrest Gump,Movie,Drama,1994,8.8,142
+Game of Thrones,Show,Fantasy,2011,9.2,8
+Gladiator,Movie,Action,2000,8.5,155
+The Crown,Show,Drama,2016,8.6,6
+Jurassic Park,Movie,Adventure,1993,8.2,127
+Rick and Morty,Show,Animation,2013,9.1,7
+Avatar,Movie,Adventure,2009,7.9,162
+Better Call Saul,Show,Crime,2015,8.9,6
+The Shawshank Redemption,Movie,Drama,1994,9.3,142
+The Boys,Show,Action,2019,8.7,4
+Titanic,Movie,Romance,1997,7.9,195
+House of the Dragon,Show,Fantasy,2022,8.4,2
+Star Wars A New Hope,Movie,Sci-Fi,1977,8.6,121
+Ozark,Show,Crime,2017,8.4,4
+Whiplash,Movie,Drama,2014,8.5,106
+The Witcher,Show,Fantasy,2019,8.1,3
+Blade Runner,Movie,Sci-Fi,1982,8.1,117
+Seinfeld,Show,Comedy,1989,8.8,9
+Everything Everywhere All at Once,Movie,Sci-Fi,2022,8.0,139
