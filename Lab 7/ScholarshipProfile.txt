@@ -1,0 +1,20 @@
+title|organization|amount
+National Merit Scholarship|National Merit Scholarship Corporation|2500.00
+Gates Scholarship|Bill and Melinda Gates Foundation|20000.00
+Coca-Cola Scholars Program|Coca-Cola Scholars Foundation|20000.00
+Dell Scholars Program|Michael and Susan Dell Foundation|20000.00
+Elks National Foundation Most Valuable Student|Elks National Foundation|12500.00
+Horatio Alger National Scholarship|Horatio Alger Association|25000.00
+Jackie Robinson Foundation Scholarship|Jackie Robinson Foundation|30000.00
+Jeannette Rankin Women's Scholarship|Jeannette Rankin Foundation|2000.00
+Prudential Spirit of Community Award|Prudential Financial|5000.00
+Ron Brown Scholar Program|College Fund|40000.00
+Siemens Competition in Math Science and Technology|Siemens Foundation|100000.00
+Society of Women Engineers Scholarship|Society of Women Engineers|10000.00
+Talbots Scholarship Foundation|Talbots|30000.00
+Truman Scholarship|Harry S. Truman Scholarship Foundation|30000.00
+AMS Minority Scholarship|American Meteorological Society|15000.00
+Barry Goldwater Scholarship|Barry Goldwater Scholarship Foundation|7500.00
+Buick Achievers Scholarship|General Motors Foundation|25000.00
+Davidson Fellows Scholarship|Davidson Institute|50000.00
+Regeneron Science Talent Search|Society for Science|250000.00
